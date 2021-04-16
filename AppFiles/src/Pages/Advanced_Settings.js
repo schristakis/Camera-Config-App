@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function Advanced_Settings() {
     return (
-         <div className="page Advanced_Settings">
+         <div className="advancedSettings">
             <h1>Advanced settings for the Camera</h1>
             <form>
                 <label>
